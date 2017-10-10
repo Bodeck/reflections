@@ -3,3 +3,6 @@ Git creates directory with respository metadata .git. It need to be done to init
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is stage between working area and repository, we add there files which should be next commited. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+Place on stage on file which should be commited even if I change different files in working area.
