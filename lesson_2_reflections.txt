@@ -9,3 +9,6 @@ Place on stage on file which should be commited even if I change different files
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Alternative solution, experimental features. We can independly develop and make changes in original version. 
+
+How do the diagrams help you visualize the branch structure?
+List all commints in branches, so I can compare which commit is is oldest and which branch is parent.
