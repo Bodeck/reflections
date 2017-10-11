@@ -12,3 +12,7 @@ Alternative solution, experimental features. We can independly develop and make 
 
 How do the diagrams help you visualize the branch structure?
 List all commints in branches, so I can compare which commit is is oldest and which branch is parent.
+
+What is the results of merging two branches together? Why do we need represent it in the diagram they we do?
+Label of branch is removed and all commits copied to another branch. Merged branch is not deleted.
+To see and compere commits in two branches. 
