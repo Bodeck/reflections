@@ -15,4 +15,11 @@ List all commints in branches, so I can compare which commit is is oldest and wh
 
 What is the results of merging two branches together? Why do we need represent it in the diagram they we do?
 Label of branch is removed and all commits copied to another branch. Merged branch is not deleted.
-To see and compere commits in two branches. 
+To see and compere commits in two branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Pros
+	More effective and less time consuming
+	It ok were there are no conflicts or conflicts can be resolve by git itself
+Cons
+	We have no control on conflicts let's say there are two features which can cause logic errors during program runtime.
