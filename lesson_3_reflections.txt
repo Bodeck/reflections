@@ -16,3 +16,9 @@ and solve conflicts.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would easier without staging, commiting, push and pulling changes. However solving conflicts and control what was changed
 would be a nightmare.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I need to work on experimental feature and want to touch master branch, when master branch contains production version of application.
+This way I am sure I do not affect working product, also can pull latest version of master in case any changes were published by someone else.
+From other hand if any change was made to files I am working on I need to pull updates, merge to my branch, resolve possible conflicts which 
+require more work than simple pull from remote master to local master.
