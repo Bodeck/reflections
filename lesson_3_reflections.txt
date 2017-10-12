@@ -13,3 +13,6 @@ forks: similar of tho clone are copy of original repository, but can be done onl
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This helps git to sync local and remote repositories (this is how git know if local is ahead or behind local) 
 and solve conflicts.
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would easier without staging, commiting, push and pulling changes. However solving conflicts and control what was changed
+would be a nightmare.
